@@ -1,0 +1,6 @@
+adulterated bad
+adulterated good
+adulterated medium
+unadulterated bad
+unadulterated good
+unadulterated medium

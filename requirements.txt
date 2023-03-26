@@ -1,0 +1,12 @@
+pip install args==0.1.0
+pip install Flask==0.12.2
+pip install Flask-Cors==3.0.2
+pip install gunicorn==19.7.1
+pip install Jinja2==2.9.6
+pip install numpy==1.13.1
+pip install numpydoc==0.6.0
+pip install pandas==0.20.2
+pip install scipy==1.0.0
+pip install tensorflow
+pip install tflearn==0.3.2
+pip install tflearn==0.3.2
