@@ -1,6 +1,4 @@
-# Estimating car damage using Deep Learning Algorithms: Image Processing
-
-This tutorial will help you to install and set up the car damage detector web application on your system
+# System of Rice Quality Inspection Using Technology by Computer Vision
 
 # Installation Steps for running on your local machine:
 
@@ -16,11 +14,6 @@ This tutorial will help you to install and set up the car damage detector web ap
     python app.py
     ```
 - Browse the application on (http://localhost:5000/)
-
-# (Optional) Accessing direclty on web browser using internet:
-- You can skip the above steps and browse directly on your web browser using [Car Damage Detector](https://car-damage-detector.herokuapp.com/)
-
-
 
 #### Author
 
